@@ -1,0 +1,2 @@
+# Automated API Test Cases
+This repository contains API test cases built with Katalon Studio. It covers common REST methods like GET, POST, PUT, and DELETE, using Object Repository and Test Cases to organize each request. The purpose is to check if the API works as expected by verifying status codes, response data, and error handling. Some requests also use variables to make the tests more flexible and reusable.
